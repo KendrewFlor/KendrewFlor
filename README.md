@@ -1,18 +1,29 @@
+<h1 align="center">Hi, I'm Kendrew Flor S. Arrabe 👋</h1>
+
+<p align="center"><b>Petroleum Engineering Student · Researcher · HSE & Production Operations Enthusiast</b></p>
+
+<p align="center"><i>Grounded in petroleum engineering fundamentals, and curious about where AI takes them next.</i></p>
+
+---
+
 <table>
 <tr>
 <td width="65%" valign="top">
 
-**Hi, I'm Kendrew! ⛽ Petroleum Engineering Student × Researcher**
+### ⛽ About Me
 
-**Petroleum Engineering @ Adamson University | Researcher | Oil & Gas**
+Petroleum Engineering student at **Adamson University**, focused on the technical side of the oil and gas industry.
 
-### 🛢️ About Me
-
-I focus on the technical side of petroleum engineering and the oil and gas industry, especially HSE, gas reserves estimation, and production operations and facilities. On the side, I turn PetE concepts into small interactive tools.
+```cpp
+while (reservoir.pressure > abandonment_pressure) {
+    ensure(hse_compliance, well_integrity, zero_incidents);
+    estimate(gas_reserves, z_factor, Bg, GIIP);
+    optimize(production_operations, surface_facilities);
+}
+```
 
 - 🎓 **Studying:** BS Petroleum Engineering, 3rd year
-- 🏛️ **Org:** Industry Relations Head @ SPE - Philippine Student Section 
-              · PRO External & Batch Representative @ SPE Adamson University Student Chapter 
+- 🏛️ **Org:** Industry Relations Head @ SPE - Philippine Student Section · PRO External & Batch Representative @ SPE Adamson University Student Chapter
 - 📜 **Certs:** IWCF Level 1 · WOCRM · Safety Officer 2 (SO2)
 - 🏆 **IPFEST 2025 Finalist**
 - 📫 **Reach me:** [officialkendflor@outlook.com](mailto:officialkendflor@outlook.com) · [LinkedIn](https://www.linkedin.com/in/kendrew-flor-arrabe/)
@@ -22,6 +33,7 @@ I focus on the technical side of petroleum engineering and the oil and gas indus
 - 📈 **Tool:** [Standing-Katz Z-Factor Chart](https://github.com/KendrewFlor/Standing-Katz-Z-Factor-Chart): Interactive gas Z-factor correlation for reserves and Bg calculations
 - 🧪 **Research interests:** HSE in Petroleum Engineering · Gas Reserves Estimation · Production Operations and Facilities
 
+</td>
 <td width="35%" valign="middle" align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=F0883E&center=true&vCenter=true&width=280&height=50&lines=Petroleum+Engineering;HSE+in+Oil+%26+Gas;Gas+Reserves+Estimation;Production+Operations;Facilities+Engineering" alt="Typing SVG" />
@@ -38,10 +50,12 @@ I focus on the technical side of petroleum engineering and the oil and gas indus
 
 <p align="left">
   <img src="https://img.shields.io/badge/CAD%20Engineering-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="CAD Engineering" />&nbsp;
-  <img src="https://img.shields.io/badge/tNavigator-0B3D91?style=for-the-badge&logoColor=white" alt="tNavigator" />&nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/tNavigator-0B3D91?style=for-the-badge&logoColor=white" alt="tNavigator" />&nbsp;
+  <img src="https://img.shields.io/badge/Aspen%20HYSYS-00A3E0?style=for-the-badge&logoColor=white" alt="Aspen HYSYS" />&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />&nbsp;
+
 </p>
 
 <br>
@@ -60,8 +74,4 @@ I focus on the technical side of petroleum engineering and the oil and gas indus
 
 ---
 
-<p align="center"><i>"Every barrel produced starts with a safe operation."</i></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KendrewFlor&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
-</p>
+<p
