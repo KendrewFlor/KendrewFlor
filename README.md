@@ -24,7 +24,7 @@ I focus on the technical side of petroleum engineering and the oil and gas indus
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="assets/banner.gif" width="100%" alt="banner" />
+<img src="   <img src="https://media.giphy.com/media/abc123/giphy.gif" width="100%" alt="banner" />" width="100%" alt="banner" />
 
 </td>
 </tr>
