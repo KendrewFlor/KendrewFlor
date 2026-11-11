@@ -22,9 +22,9 @@ I focus on the technical side of petroleum engineering and the oil and gas indus
 - 🧪 **Research interests:** HSE in Petroleum Engineering · Gas Reserves Estimation · Production Operations and Facilities
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="35%" valign="middle" align="center">
 
-<img src="   <img src="https://media.giphy.com/media/abc123/giphy.gif" width="100%" alt="banner" />" width="100%" alt="banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=F0883E&center=true&vCenter=true&width=280&height=50&lines=Petroleum+Engineering;HSE+in+Oil+%26+Gas;Gas+Reserves+Estimation;Production+Operations;Facilities+Engineering" alt="Typing SVG" />
 
 </td>
 </tr>
