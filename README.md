@@ -11,7 +11,8 @@
 I focus on the technical side of petroleum engineering and the oil and gas industry, especially HSE, gas reserves estimation, and production operations and facilities. On the side, I turn PetE concepts into small interactive tools.
 
 - 🎓 **Studying:** BS Petroleum Engineering, 3rd year
-- 🏛️ **Org:** PRO External & Batch Rep @ SPE Adamson University Student Chapter · Industry Relations Head @ SPE Philippine Student Section
+- 🏛️ **Org:** Industry Relations Head @ SPE - Philippine Student Section 
+              · PRO External & Batch Representative @ SPE Adamson University Student Chapter 
 - 📜 **Certs:** IWCF Level 1 · WOCRM · Safety Officer 2 (SO2)
 - 🏆 **IPFEST 2025 Finalist**
 - 📫 **Reach me:** [officialkendflor@outlook.com](mailto:officialkendflor@outlook.com) · [LinkedIn](https://www.linkedin.com/in/kendrew-flor-arrabe/)
