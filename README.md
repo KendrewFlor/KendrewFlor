@@ -21,7 +21,6 @@ I focus on the technical side of petroleum engineering and the oil and gas indus
 - 📈 **Tool:** [Standing-Katz Z-Factor Chart](https://github.com/KendrewFlor/Standing-Katz-Z-Factor-Chart): Interactive gas Z-factor correlation for reserves and Bg calculations
 - 🧪 **Research interests:** HSE in Petroleum Engineering · Gas Reserves Estimation · Production Operations and Facilities
 
-</td>
 <td width="35%" valign="middle" align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=F0883E&center=true&vCenter=true&width=280&height=50&lines=Petroleum+Engineering;HSE+in+Oil+%26+Gas;Gas+Reserves+Estimation;Production+Operations;Facilities+Engineering" alt="Typing SVG" />
