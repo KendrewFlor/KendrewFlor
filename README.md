@@ -30,7 +30,7 @@ while (reservoir.pressure > abandonment_pressure) {
 
 ### 🔬 Research & Technical Work
 
-- 📈 **Tool:** [Standing-Katz Z-Factor Chart](https://github.com/KendrewFlor/Standing-Katz-Z-Factor-Chart): Interactive gas Z-factor correlation for reserves and Bg calculations
+- 📈 **Tool:** [Standing-Katz Z-Factor Chart](https://github.com/KendrewFlor/standing-katz-z-factor): Interactive gas Z-factor correlation for reserves and Bg calculations
 - 🧪 **Research interests:** HSE in Petroleum Engineering · Gas Reserves Estimation · Production Operations and Facilities
 
 </td>
