@@ -84,5 +84,6 @@ while (reservoir.pressure > abandonment_pressure) {
   <a href="mailto:officialkendflor@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>&nbsp;
   <a href="https://github.com/KendrewFlor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KendrewFlor&label=Profile%20views&color=F0883E&style=for-the-badge" alt="Profile views" />
+</p>
