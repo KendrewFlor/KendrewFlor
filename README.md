@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="90%" valign="top">
 
 ### ⛽ About Me
 
@@ -36,14 +36,18 @@ while (reservoir.pressure > abandonment_pressure) {
 **Favorite areas:** Reservoir Simulation · PVT & Phase Behavior · Well Control · Process Simulation
 
 </td>
-<td width="35%" valign="middle" align="center">
+<td width="80%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/Rcb7g9rIp7YVG/giphy-downsized-medium.gif" width="280" alt="Roughnecks making a pipe connection on the rig floor" />
+<img src="https://media.giphy.com/media/ZMqgw8Oq7TRKg/giphy.gif" width="260" alt="Pumpjack operating in an oilfield" />
 <br>
-<sub>Rig floor operations · GIF by <a href="https://giphy.com/gifs/Rcb7g9rIp7YVG">Eni</a> via GIPHY</sub>
+
 
 <br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=F0883E&center=true&vCenter=true&width=280&height=50&lines=Petroleum+Engineering;HSE+in+Oil+%26+Gas;Gas+Reserves+Estimation;Production+Operations;Facilities+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=F0883E&center=true&vCenter=true&width=280&height=50&lines=Petroleum+Engineering;HSE+in+Oil+%26+Gas;Gas+Reserves+Estimation;Production+Operations;Facilities+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=F0883E&center=true&vCenter=true&width=280&height=50&lines=Petroleum+Engineering;HSE+in+Oil+%26+Gas;Gas+Reserves+Estimation;Production+Operations;Facilities+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=F0883E&center=true&vCenter=true&width=280&height=50&lines=Petroleum+Engineering;HSE+in+Oil+%26+Gas;Gas+Reserves+Estimation;Production+Operations;Facilities+Engineering" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=F0883E&center=true&vCenter=true&width=280&height=50&lines=Petroleum+Engineering;HSE+in+Oil+%26+Gas;Gas+Reserves+Estimation;Production+Operations;Facilities+Engineering" alt="Typing SVG" />
 
 </td>
