@@ -33,8 +33,16 @@ while (reservoir.pressure > abandonment_pressure) {
 - 📈 **Tool:** [Standing-Katz Z-Factor Chart](https://github.com/KendrewFlor/standing-katz-z-factor): Interactive gas Z-factor correlation for reserves and Bg calculations
 - 🧪 **Research interests:** HSE in Petroleum Engineering · Gas Reserves Estimation · Production Operations and Facilities
 
+**Favorite areas:** Reservoir Simulation · PVT & Phase Behavior · Well Control · Process Simulation
+
 </td>
 <td width="35%" valign="middle" align="center">
+
+<img src="https://media.giphy.com/media/Rcb7g9rIp7YVG/giphy-downsized-medium.gif" width="280" alt="Roughnecks making a pipe connection on the rig floor" />
+<br>
+<sub>Rig floor operations · GIF by <a href="https://giphy.com/gifs/Rcb7g9rIp7YVG">Eni</a> via GIPHY</sub>
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=F0883E&center=true&vCenter=true&width=280&height=50&lines=Petroleum+Engineering;HSE+in+Oil+%26+Gas;Gas+Reserves+Estimation;Production+Operations;Facilities+Engineering" alt="Typing SVG" />
 
@@ -48,15 +56,18 @@ while (reservoir.pressure > abandonment_pressure) {
 
 ### 💻 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/CAD%20Engineering-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="CAD Engineering" />&nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/tNavigator-0B3D91?style=for-the-badge&logoColor=white" alt="tNavigator" />&nbsp;
-  <img src="https://img.shields.io/badge/Aspen%20HYSYS-00A3E0?style=for-the-badge&logoColor=white" alt="Aspen HYSYS" />&nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />&nbsp;
-
-</p>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/autocad/E51050" height="44" alt="AutoCAD" /><br><sub><b>CAD</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" alt="C++" /><br><sub><b>C++</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="HTML5" /><br><sub><b>HTML5</b></sub></td>
+<td align="center" width="96"><img src="https://rfdyn.com/wp-content/uploads/2025/04/cropped-tN-Desktop-Colourful-Tab-192x192.png" height="44" alt="tNavigator" /><br><sub><b>tNavigator</b></sub></td>
+<td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Aspen_Technology_logo.svg" height="26" alt="Aspen HYSYS" /><br><sub><b>Aspen HYSYS</b></sub></td>
+<td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg" height="44" alt="Excel" /><br><sub><b>Excel</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="44" alt="MATLAB" /><br><sub><b>MATLAB</b></sub></td>
+<td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png" height="36" alt="Scilab" /><br><sub><b>Scilab</b></sub></td>
+</tr>
+</table>
 
 <br>
 
@@ -71,7 +82,3 @@ while (reservoir.pressure > abandonment_pressure) {
 </p>
 
 <br>
-
----
-
-<p
